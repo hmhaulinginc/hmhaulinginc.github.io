@@ -1,0 +1,166 @@
+.container-fluid{ 
+  margin: 0;
+}
+
+.row { 
+  background-color: #5f6c70;
+  color: whitesmoke;
+}
+
+.body {
+  /* display: flex;
+  flex-direction: column;
+  justify-content: flex-end; */
+  background-color: #5f6c70;
+  /* padding: -2%; */
+  margin-top: 5.5%;
+}
+
+* { 
+  margin: 0;
+}
+
+.italic {
+  font-style: italic;
+}
+.lead {
+  margin: 5%;
+}
+
+.title {
+  margin-top: 7%;
+  margin-left: 25%;
+  font-size: 3em;
+  font-family: "Arial Black", Gadget, sans-serif;
+}
+
+.rainbow {
+  display: flex;
+  justify-content: right;
+}
+
+.card-subtitle {
+  color: black;
+}
+
+.card-body { 
+  background-color: 	#5f6c70;
+}
+
+header {
+  margin: 0 auto;
+  width: 100%;
+  background-color: #5f6c70;
+}
+
+.list-group-item {
+  background-color: #77868B;
+}
+
+.logo { 
+  background-color: #5f6c70;
+  padding: 2%;
+}
+
+.HM {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 1.5em;
+  height: 2em;
+}
+
+.card { 
+  margin: 1%;
+  padding-top: 5%;
+  padding-bottom: 5%; 
+  background-color: #5f6c70;
+}
+
+.puppy { 
+  max-width: 300px;
+  background-color: #09264d;
+  color: whitesmoke;
+}
+
+.blue { 
+  background-color: #09264d;
+}
+
+section {
+  background-color: #09264d;
+}
+
+.aside { 
+  display: flex;
+  justify-content: space-around;
+}
+
+.gallery {
+  margin-left: 2%;
+}
+
+.kitty {
+  max-width: 300px;
+  background-color: #5f6c70;
+  color: whitesmoke;
+}
+
+.puppy { 
+  background-color: #fdf9f3;
+}
+
+.lightsaber {
+  background-color: #5f6c70;
+  color: #77868B;
+}
+
+
+.box {
+  background-color: #77868B;
+}
+
+.row-footer {
+  background-color: #5b7491;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.card-footer { 
+  background-color:#09264d;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.card-text { 
+  display: flex;
+  justify-content: center;
+  padding: 2%;
+}
+
+.purple {
+  background-color: black;
+}
+
+.pony {
+  color: #77868B;
+}
+/* unvisited link */
+.heart:link {
+  color: white;
+}
+
+/* visited link */
+.heart:visited {
+  color: #09264d;
+}
+
+/* mouse over link */
+.heart:hover {
+  color: #77868B;
+}
+
+/* selected link */
+.heart:active {
+  color: black;
+}
